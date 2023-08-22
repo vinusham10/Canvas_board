@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    font-family: 'Quicksand', sans-serif;
+    color: brown;
+    font-size: 60px;
+    font-weight: 900;
+}
+h3{
+    position: absolute;
+    left: 590px;
+    top: 100px;
+    background-color: rgb(226, 213, 231);
+    color: black;
+    width: 163px;
+    height: 24px;
+}
+h4{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 20px;
+    font-weight: 400px;
+}
+.block{
+    text-align: center;
+}
+canvas{
+    display: block;
+    background-color:rgb(226, 213, 231);
+    margin: 20px;
+}
+input{
+    margin: 20px 0px 0px 20px;
+}
